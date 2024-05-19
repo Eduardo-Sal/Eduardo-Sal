@@ -6,6 +6,9 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo-Sal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Gourm/)
 
+&nbsp;
+<img width="55%" align="right" alt="Github" src="https://sdl-stickershop.line.naver.jp/products/0/0/1/1252011/android/stickers/10221020.png;compress=true" />
+
 Currently pursuing my degree in Computer Engineering at UT Rio Grande Valley. I'm passionate about Embedded Systems and Machine Learning, with a particular interest in combining both fields for Computer Vision applications, such as Medical Imaging, Object Detection, Robotics, and Image Processing. In the realm of Embedded Systems, I have explored subfields like real-time systems, low-power design, and sensor integration. Within Machine Learning, I am particularly interested in deep learning, neural networks, and reinforcement learning. Additionally, I am keen on leveraging Computer Vision with CUDA for efficient parallel processing, enabling high-performance image and video processing tasks.
 
 - 🔭 I’m currently working on making a better version of myself everyday 
