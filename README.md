@@ -1,11 +1,9 @@
 ## Hey! I'm Eduardo Salinas
 
-<!--  -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-salinas-a2845120a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.salinas12@utrgv.edu)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo-Sal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Gourm/)
-
 &nbsp;
 <img width="55%" align="right" alt="Github" src="https://sdl-stickershop.line.naver.jp/products/0/0/1/1252011/android/stickers/10221020.png;compress=true" />
 
