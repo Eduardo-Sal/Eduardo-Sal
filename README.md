@@ -1,7 +1,7 @@
 ## Hey! I'm Eduardo Salinas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-salinas-a2845120a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.salinas12@utrgv.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosalinas2k15@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo-Sal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Gourm/)
 &nbsp;
@@ -13,7 +13,7 @@ Currently pursuing my degree in Computer Engineering at UT Rio Grande Valley. I'
 - 🌱 I’m currently learning Embedded Systems and ML
 - 🤔 I’m looking for help with Computer Vision and CUDA
 - 💬 Ask me about anything, I'm open to sharing and helping. 
-- 📫 How to reach me: eduardo.salinas12@utrgv.edu
+- 📫 How to reach me: eduardosalinas2k15@gmail.com
 
 Languages:
 
