@@ -7,7 +7,7 @@
 &nbsp;
 <img width="55%" align="right" alt="Github" src="https://sdl-stickershop.line.naver.jp/products/0/0/1/1252011/android/stickers/10221020.png;compress=true" />
 
-Currently pursuing my degree in Computer Engineering at UT Rio Grande Valley. I'm passionate about Embedded Systems and Machine Learning. In the realm of Embedded Systems, I have explored subfields like real-time systems, low-power design, and sensor integration. Within Machine Learning, I am particularly interested in Computer Vision, Deep Learning, and Reinforcement Learning. Additionally, I am keen on leveraging Computer Vision with CUDA for efficient parallel processing, enabling high-performance image and video processing tasks. 
+I’m currently pursuing a degree in Computer Engineering at UT Rio Grande Valley, where I’ve developed a strong passion for Embedded Systems, Machine Learning, and problem-solving. My journey in Embedded Systems has led me to explore areas like real-time systems, low-power design, sensor integration, and IoT applications. On the Machine Learning side, I’m particularly interested in Computer Vision, Deep Learning, and Reinforcement Learning, as I love the intersection of algorithms and real-world applications. I also enjoy working on full-stack development projects, especially backend and cloud infrastructure, where I can design scalable and efficient solutions that improve performance and user experience. Above all, I’m always looking for ways to grow and create impactful technologies. 
 
 - 🔭 I’m currently working on making a better version of myself everyday 
 - 🌱 I’m currently learning Embedded Systems and ML
