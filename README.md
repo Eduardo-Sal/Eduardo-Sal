@@ -10,8 +10,8 @@
 I’m currently pursuing a degree in Computer Engineering at UT Rio Grande Valley, where I’ve developed a strong passion for Embedded Systems, Machine Learning, and problem-solving. My journey in Embedded Systems has led me to explore areas like real-time systems, low-power design, sensor integration, and IoT applications. On the Machine Learning side, I’m particularly interested in Computer Vision, Deep Learning, and Reinforcement Learning, as I love the intersection of algorithms and real-world applications. I also enjoy working on full-stack development projects, especially backend and cloud infrastructure, where I can design scalable and efficient solutions that improve performance and user experience. Above all, I’m always looking for ways to grow and create impactful technologies. 
 
 - 🔭 I’m currently working on making a better version of myself everyday 
-- 🌱 I’m currently learning Embedded Systems and ML
-- 🤔 I’m looking for help with Computer Vision and CUDA
+- 🌱 I’m currently learning Fullstack for IoT devices
+- 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about anything, I'm open to sharing and helping. 
 - 📫 How to reach me: eduardosalinas2k15@gmail.com
 
@@ -25,6 +25,9 @@ Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+
+
 
 Frameworks and Tools:
 
