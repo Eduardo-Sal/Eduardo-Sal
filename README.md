@@ -5,13 +5,12 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo-Sal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Gourm/)
 &nbsp;
-<img width="55%" align="right" alt="Github" src="https://sdl-stickershop.line.naver.jp/products/0/0/1/1252011/android/stickers/10221020.png;compress=true" />
 
-I’m currently pursuing a degree in Computer Engineering at UT Rio Grande Valley, where I’ve developed a strong passion for Embedded Systems, Machine Learning, and problem-solving. My journey in Embedded Systems has led me to explore areas like real-time systems, low-power design, sensor integration, and IoT applications. On the Machine Learning side, I’m particularly interested in Computer Vision, Deep Learning, and Reinforcement Learning, as I love the intersection of algorithms and real-world applications. I also enjoy working on full-stack development projects, especially backend and cloud infrastructure, where I can design scalable and efficient solutions that improve performance and user experience. Above all, I’m always looking for ways to grow and create impactful technologies. 
+
+Pursuing a degree in Computer Engineering at University of Texas Rio Grande Valley. My interests are IoT and Fullstack development.
 
 - 🔭 I’m currently working on making a better version of myself everyday 
-- 🌱 I’m currently learning Fullstack for IoT devices
-- 🤔 I’m looking for help with Javascript 
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything, I'm open to sharing and helping. 
 - 📫 How to reach me: eduardosalinas2k15@gmail.com
 
